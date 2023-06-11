@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Mishra</h1>
-<h3 align="center">A backend developer having experience in Nodejs and Sql .Currently Nestjs and AWS</h3>
+<h3 align="center">A backend developer having experience in Nodejs and Sql .Currently exploring Nestjs and AWS</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
